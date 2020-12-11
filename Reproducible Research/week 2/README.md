@@ -9,7 +9,7 @@ Quiz # | Link
 
 ## Projects 
 Project # | Markdown | R Markdown | HTML
---- | --- | ---
+--- | --- | --- | ---
 1 |  [Course Project 1 (.md)][1]  | [Course Project 1 (.Rmd)][2] | [Course Project 1 (.html)][3]
 
 [1]: https://github.com/bea314/CourseraDS.git "Markdown file"
