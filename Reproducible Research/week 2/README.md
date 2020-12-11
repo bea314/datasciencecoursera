@@ -8,12 +8,13 @@ Quiz # | Link
 1 | [Quiz 1]()
 
 ## Projects 
-Project # | Markdown | R Markdown
+Project # | Markdown | R Markdown | HTML
 --- | --- | ---
-1 |  [Course Project 1 (.md)][1]  | [Reproducible Research Project 2 (.Rmd)][2]
+1 |  [Course Project 1 (.md)][1]  | [Course Project 1 (.Rmd)][2] | [Course Project 1 (.html)][3]
 
 [1]: https://github.com/bea314/CourseraDS.git "Markdown file"
 [2]: https://github.com/bea314/CourseraDS.git "R Markdown file"
+[3]: https://github.com/bea314/CourseraDS.git "HTML file"
 
 ## Contributors
 FirstName | LastName | Email
