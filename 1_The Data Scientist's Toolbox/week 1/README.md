@@ -14,7 +14,7 @@ Quiz # | Link
 --- | --- 
 1 | [Quiz 1][2]
 
-[1]: 1_The Data Scientist's Toolbox/week 1/pq1.md "Practice Quiz 1"
+[1]: https://github.com/bea314/CourseraDS/blob/main/1_The%20Data%20Scientist's%20Toolbox/week%201/pq1.md "Practice Quiz 1"
 [2]: https://github.com/bea314/CourseraDS.git "Quiz 1"
 [3]: https://github.com/bea314/CourseraDS.git "Quiz 1"
 
