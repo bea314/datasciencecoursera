@@ -2,7 +2,7 @@
 
 Here is a bit of what I did while I was in week 1. If you want to add something, you can do it.
 
-## Practices Quizzes
+## Practice Quizzes
 Quiz # | Link 
 --- | --- 
 1 | [Practice Quiz 1][1]
