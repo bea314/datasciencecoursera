@@ -1,7 +1,7 @@
 # Practice Quiz 3 (Linking Git/GitHub and RStudio)
 
-Go to: [The Data Scientist's Toolbox (repository)](https://github.com/bea314/CourseraDS/tree/main/1_The%20Data%20Scientist's%20Toolbox)  
-Go to: [The Data Scientist's Toolbox - week3 (repository)](https://github.com/bea314/CourseraDS/tree/main/1_The%20Data%20Scientist's%20Toolbox/week%203)
+Go to: [The Data Scientist's Toolbox (repository)](https://github.com/bea314/datasciencecoursera/tree/main/1_The%20Data%20Scientist's%20Toolbox)  
+Go to: [The Data Scientist's Toolbox - week3 (repository)](https://github.com/bea314/datasciencecoursera/tree/main/1_The%20Data%20Scientist's%20Toolbox/week%203)
 
 ## Question 1
 1. In what quadrant of RStudio will you find the Git tab?
