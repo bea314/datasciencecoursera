@@ -15,11 +15,11 @@ Quiz # | Link
 --- | --- 
 1 | [Quiz 1][5]
 
-[1]: https://github.com/bea314/CourseraDS/blob/main/1_The%20Data%20Scientist's%20Toolbox/week%203/pq1.md "Practice Quiz 1"
-[2]: https://github.com/bea314/CourseraDS/blob/main/1_The%20Data%20Scientist's%20Toolbox/week%203/pq2.md "Practice Quiz 2"
-[3]: https://github.com/bea314/CourseraDS/blob/main/1_The%20Data%20Scientist's%20Toolbox/week%203/pq3.md "Practice Quiz 3"
-[4]: https://github.com/bea314/CourseraDS/blob/main/1_The%20Data%20Scientist's%20Toolbox/week%203/pq4.md "Practice Quiz 4"
-[5]: https://github.com/bea314/CourseraDS/blob/main/1_The%20Data%20Scientist's%20Toolbox/week%203/quiz1.md "Module Four Summative Quiz"
+[1]: https://github.com/bea314/CourseraDS/blob/main/1_The%20Data%20Scientist's%20Toolbox/week%204/pq1.md "Practice Quiz 1"
+[2]: https://github.com/bea314/CourseraDS/blob/main/1_The%20Data%20Scientist's%20Toolbox/week%204/pq2.md "Practice Quiz 2"
+[3]: https://github.com/bea314/CourseraDS/blob/main/1_The%20Data%20Scientist's%20Toolbox/week%204/pq3.md "Practice Quiz 3"
+[4]: https://github.com/bea314/CourseraDS/blob/main/1_The%20Data%20Scientist's%20Toolbox/week%204/pq4.md "Practice Quiz 4"
+[5]: https://github.com/bea314/CourseraDS/blob/main/1_The%20Data%20Scientist's%20Toolbox/week%204/quiz1.md "Module Four Summative Quiz"
 
 ## Contributors
 FirstName | LastName | Email
