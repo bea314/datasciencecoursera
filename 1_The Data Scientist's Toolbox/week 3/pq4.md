@@ -1,7 +1,7 @@
 # Practice Quiz 4 (Projects under Version Control)
 
-Go to: [The Data Scientist's Toolbox (repository)](https://github.com/bea314/CourseraDS/tree/main/1_The%20Data%20Scientist's%20Toolbox)  
-Go to: [The Data Scientist's Toolbox - week3 (repository)](https://github.com/bea314/CourseraDS/tree/main/1_The%20Data%20Scientist's%20Toolbox/week%203)
+Go to: [The Data Scientist's Toolbox (repository)](https://github.com/bea314/datasciencecoursera/tree/main/1_The%20Data%20Scientist's%20Toolbox)  
+Go to: [The Data Scientist's Toolbox - week3 (repository)](https://github.com/bea314/datasciencecoursera/tree/main/1_The%20Data%20Scientist's%20Toolbox/week%203)
 
 ## Question 1
 1. What do you call it when you create a local copy of a repository that you will work on collaboratively with the original repository owner?
