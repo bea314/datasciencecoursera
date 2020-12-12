@@ -1,7 +1,7 @@
 # Module Four Summative Quiz
 
-Go to: [The Data Scientist's Toolbox (repository)](https://github.com/bea314/CourseraDS/tree/main/1_The%20Data%20Scientist's%20Toolbox)  
-Go to: [The Data Scientist's Toolbox - week4 (repository)](https://github.com/bea314/CourseraDS/tree/main/1_The%20Data%20Scientist's%20Toolbox/week%204)
+Go to: [The Data Scientist's Toolbox (repository)](https://github.com/bea314/datasciencecoursera/tree/main/1_The%20Data%20Scientist's%20Toolbox)  
+Go to: [The Data Scientist's Toolbox - week4 (repository)](https://github.com/bea314/datasciencecoursera/tree/main/1_The%20Data%20Scientist's%20Toolbox/week%204)
 
 ## Question 1
 1. What is the format for including a link that appears as blue text in your markdown document?
