@@ -25,7 +25,7 @@ Quiz # | Link
 [5]: https://github.com/bea314/datasciencecoursera "Practice Quiz 5"
 [6]: https://github.com/bea314/datasciencecoursera "Practice Quiz 6"
 [7]: https://github.com/bea314/datasciencecoursera "Practice Quiz 7"
-[8]: https://github.com/bea314/datasciencecoursera "Week 1 Quiz"
+[8]: https://github.com/bea314/datasciencecoursera/blob/main/2_R%20Programming/week%201/quiz1/quiz1.md "Week 1 Quiz"
 
 ## Contributors
 FirstName | LastName | Email
