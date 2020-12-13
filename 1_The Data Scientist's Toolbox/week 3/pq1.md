@@ -6,19 +6,19 @@ Go to: [The Data Scientist's Toolbox - week3 (repository)](https://github.com/be
 ## Question 1
 1. I'm done editing a file, I need to ______ those changes then _______ them, and ______ it to the ________.
 - [ ] Commit, merge, push, repository
-- [x] Pull, push, commit, branch
-- [ ] Stage, commit, push, repository
+- [ ] Pull, push, commit, branch
+- [X] Stage, commit, push, repository
 
 ## Question 2
 2. What is a good example of a message to accompany a commit?
-- [ ] Modified linear model of height to include new covariate, genotype
-- [x] Added genotype
+- [X] Modified linear model of height to include new covariate, genotype
+- [ ] Added genotype
 - [ ] Updated thing
 
 ## Question 3
 3. Which of these is NOT true about using a version control system?
-- [ ] Version control is time-consuming and difficult to use.
-- [x] Version control allows you to go back if you make mistakes.
+- [X] Version control is time-consuming and difficult to use.
+- [ ] Version control allows you to go back if you make mistakes.
 - [ ] Version control is a way to allow multiple people to work together on a set of files for a project.
 
 ## Contributors
